@@ -1,7 +1,1 @@
-jhb
-nih
-knjo
-jn
-knj
-knkob
-knjo
+a=1000
