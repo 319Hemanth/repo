@@ -1,6 +1,3 @@
-oknbh
-nijih
-kj
-kj
-kn
+a
+=200
 
